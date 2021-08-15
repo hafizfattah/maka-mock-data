@@ -1,0 +1,31 @@
+{
+  "name": "maka-mock",
+  "version": "1.0.0",
+  "description": "mock data for maka",
+  "main": "index.js",
+  "author": "hafiz",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "PORT=3232 ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helmisatria/siplah-mock-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helmisatria/siplah-mock-data/issues"
+  },
+  "homepage": "https://github.com/helmisatria/siplah-mock-data#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "glob": "^7.1.6",
+    "mocker-api": "^2.8.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  }
+}
