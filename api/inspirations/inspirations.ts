@@ -19,33 +19,60 @@ const proxy = {
       articles: [
         {
           id: "1",
-          title: "Tuku X Trasher",
-          description: "Lorem ipsum dolor sit amet consectetur adipisicing elit ipsam temporibus corrupti accusamus sit modi.",
-          image:
-            "https://static.republika.co.id/uploads/images/inpicture_slide/presiden-joko-widodo-kiri-bersama-ibu-negara-iriana-ketiga-_170702140946-900.jpg",
+          title: "Tuku x Living Loving",
+          image: "https://i.ibb.co/M6X2jKD/tukuxliving.png",
+          lang: {
+            en: {
+              description:
+                "Toko Kopi Tuku and Living Loving collaborated to create an outlet for #TetanggaTuku to play and be creative while staying at home in the middle of the pandemic.",
+            },
+            id: {
+              description: "Sebuah paket kolaborasi dari kami berisi Kopi Susu Tetangga dan permainan untuk kamu mainkan di rumah.",
+            },
+          },
         },
         {
           id: "2",
-          title: "Futago X Hollycow ",
-          description:
-            "Repellendus nobis iure, in dolores labore alias consequatur, eum sapiente, nemo dolore cum blanditiis distinctio odit fugit qui id.",
-          image:
-            "https://cdn0-production-images-kly.akamaized.net/8xrxLdD-H2WI7XngheWF9cz00Ss=/640x480/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3366008/original/092025400_1612247089-unnamed__1_.jpg",
+          title: "SAPA DENGAN RASA  - TUKU X POS INDONESIA",
+
+          image: "https://i.ibb.co/B209N27/sapa-dengan-rasa.png",
+          lang: {
+            en: {
+              description:
+                "Together with Pos Indonesia, we invited all of #TetanggaTuku to try “Sapa Dengan Rasa”, a new way to say hello in the form of ready-to-brew postcards.",
+            },
+            id: {
+              description: "Sapa Dengan Rasa, sebuah cara baru untuk kamu menyapa lewat kartu pos siap seduh.",
+            },
+          },
         },
         {
           id: "3",
-          title: "Fenomena Rempah Nusantara",
-          description:
-            "Voluptates incidunt sequi molestias consequuntur sint reprehenderit perspiciatis repudiandae consequatur quia expedita iste excepturi cum!",
-          image: "https://asset.kompas.com/crops/W6PIC61U2A_BlF4J0vl_Zd_N0Ck=/33x0:1000x645/750x500/data/photo/2020/05/12/5eba5ec355d99.jpg",
+          title: "TUKU “MAAF”",
+          image: "https://i.ibb.co/NWc5kvr/tuku-maaf.png",
+          lang: {
+            en: {
+              description:
+                "In Eid 2020, we felt the need to take on the role to bridge a connection between #TetanggaTuku who were unable to spend their Eid with families in the middle of the pandemic.",
+            },
+            id: {
+              description: "Paket “Beri Maaf”, sebuah wujud baru pesan maaf untuk kamu yang terpisah jarak.",
+            },
+          },
         },
         {
           id: "4",
-          title: "Los Polos Hermanos",
-          description:
-            "Perspiciatis necessitatibus reprehenderit quia quo. Enim delectus eius dolorem sit nostrum aspernatur animi, totam explicabo iure laudantium porro.",
-          image:
-            "https://offloadmedia.feverup.com/secretlosangeles.com/wp-content/uploads/2019/10/22095522/70991088_150912036128545_2481090655335180758_n-1024x721.jpg",
+          title: "FUTAGO X TAHU KRISPI FATMAWATI",
+          image: "https://i.ibb.co/ZxrmY7N/futagoxkrispi.png",
+          lang: {
+            en: {
+              description:
+                "To welcome the month of Ramadan in 2021, Futago x Tahu Krispi Fatmawati held hands together to collaboratively create a product for Futagotachi and Sobat Tahu.",
+            },
+            id: {
+              description: "“Minari” - Mini Inari, sebuah produk yang menggabungkan konsep JAPINDO dan kelokalan gorengan ala Tahu Krispi Fatmawati.",
+            },
+          },
         },
       ],
     },
