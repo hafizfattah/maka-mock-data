@@ -12,17 +12,17 @@ const proxy = {
         {
           name: "facebook",
           url: "https://www.facebook.com/",
-          icon: "https://i.ibb.co/5hhFZgk/facebook.png",
+          icon: "https://i.ibb.co/Qn8tKZy/facebook.png",
         },
         {
           name: "twitter",
           url: "https://www.facebook.com/",
-          icon: "https://i.ibb.co/7SN2VLg/twitter.png",
+          icon: "https://i.ibb.co/hWd2Cyd/twitter.png",
         },
         {
           name: "instagram",
           url: "https://www.facebook.com/",
-          icon: "https://i.ibb.co/GV0hTMn/instagram.png",
+          icon: "https://i.ibb.co/hLpnjBW/instagram.png",
         },
       ],
     },

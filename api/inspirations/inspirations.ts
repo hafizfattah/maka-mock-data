@@ -5,7 +5,7 @@ const proxy = {
     code: 200,
     status: "OK",
     data: {
-      banner: "https://i.ibb.co/m5RG7pD/inspirationbg.png",
+      banner: "https://i.ibb.co/ww8MvfW/inspirationbg.png",
       en: {
         title: "Inspired by The Boundlessness of Possibility",
         description:
@@ -20,7 +20,7 @@ const proxy = {
         {
           id: "1",
           title: "Tuku x Living Loving",
-          image: "https://i.ibb.co/M6X2jKD/tukuxliving.png",
+          image: "https://i.ibb.co/zG1CxWH/tukuxliving-1.png",
           lang: {
             en: {
               description:
@@ -34,8 +34,7 @@ const proxy = {
         {
           id: "2",
           title: "SAPA DENGAN RASA  - TUKU X POS INDONESIA",
-
-          image: "https://i.ibb.co/B209N27/sapa-dengan-rasa.png",
+          image: "https://i.ibb.co/crxy33L/sapa-dengan-rasa.png",
           lang: {
             en: {
               description:
@@ -49,11 +48,11 @@ const proxy = {
         {
           id: "3",
           title: "TUKU “MAAF”",
-          image: "https://i.ibb.co/NWc5kvr/tuku-maaf.png",
+          image: "https://i.ibb.co/hXqtJh0/tuku-maaf.png",
           lang: {
             en: {
               description:
-                "In Eid 2020, we felt the need to take on the role to bridge a connection between #TetanggaTuku who were unable to spend their Eid with families in the middle of the pandemic.",
+                "“Beri Maaf” is a new form of conveying apologies for you to send a heartfelt message to your loved ones despite being apart.",
             },
             id: {
               description: "Paket “Beri Maaf”, sebuah wujud baru pesan maaf untuk kamu yang terpisah jarak.",
@@ -63,7 +62,7 @@ const proxy = {
         {
           id: "4",
           title: "FUTAGO X TAHU KRISPI FATMAWATI",
-          image: "https://i.ibb.co/ZxrmY7N/futagoxkrispi.png",
+          image: "https://i.ibb.co/D1RpRJJ/futagoxkrispi.png",
           lang: {
             en: {
               description:

@@ -7,9 +7,9 @@ const proxy = {
     data: {
       id: "1",
       name: "Toodz House",
-      logo: "https://i.ibb.co/LdTGs36/toodz.png",
-      banner: "https://i.ibb.co/Thfw3nR/toodz-banner.png",
-      imageCenter: "https://loremflickr.com/cache/resized/65535_51112412671_66dd769de5_h_1200_600_nofilter.jpg",
+      logo: "https://i.ibb.co/yBrqtPD/toodz.png",
+      banner: "https://i.ibb.co/0M2vmGQ/toodz-banner.png",
+      imageCenter: "https://i.ibb.co/wyFNgf9/toodz-center.png",
       lang: {
         en: {
           title: "A Cafe We Can Call Home",
@@ -26,6 +26,24 @@ const proxy = {
           mission: "Selalu mengeksplorasi dan mengembangkan kekayaan nusantara juga sumber daya lokal.",
         },
       },
+      products: [
+        {
+          name: "Waffle",
+          imageUrl: "https://i.ibb.co/xqqPT4W/toodz-product-1.png",
+        },
+        {
+          name: "Spagheti",
+          imageUrl: "https://i.ibb.co/BBbZyLg/toodz-product-2.png",
+        },
+        {
+          name: "Chicken Cheese",
+          imageUrl: "https://i.ibb.co/rGyNMP0/toodz-product-3.png",
+        },
+        {
+          name: "Union Ring",
+          imageUrl: "https://i.ibb.co/8g5C6Kj/toodz-product-4.png",
+        },
+      ],
     },
   },
   "GET /api/brands/2-toko-kopi-tuku": {
@@ -34,9 +52,9 @@ const proxy = {
     data: {
       id: "1",
       name: "Toko Kopi Tuku",
-      logo: "https://i.ibb.co/3fp7CpM/tuku-logo.png",
-      banner: "https://i.ibb.co/VHq6j9h/tuku-banner.png",
-      imageCenter: "https://i.ibb.co/mXqc4mM/tuku-image-center.png",
+      logo: "https://i.ibb.co/C6X2Zr1/tuku-logo.png",
+      banner: "https://i.ibb.co/HH3gJVV/tuku-banner.png",
+      imageCenter: "https://i.ibb.co/PGdp6Qb/tuku-image-center.png",
       lang: {
         en: {
           title: "A pioneer of new and exciting coffee dibs.",
@@ -55,6 +73,20 @@ const proxy = {
             "Selalu memberikan produk dan experience yang relevan, sesuai dengan kebutuhan dan perkembangan zaman untuk membuat hari-hari menjadi lebih baik.",
         },
       },
+      products: [
+        {
+          name: "Coffe mug",
+          imageUrl: "https://i.ibb.co/BLp2QXP/tuku-product-1.png",
+        },
+        {
+          name: "Donut",
+          imageUrl: "https://i.ibb.co/QJK2wQY/tuku-product-2.png",
+        },
+        {
+          name: "Kopi susu tetangga",
+          imageUrl: "https://i.ibb.co/RSB7Yfg/tuku-product-3.png",
+        },
+      ],
     },
   },
   "GET /api/brands/3-futago": {
@@ -63,9 +95,9 @@ const proxy = {
     data: {
       id: "1",
       name: "Futago",
-      logo: "https://i.ibb.co/bBRLJHH/futago-logo.png",
-      banner: "https://i.ibb.co/mS9T0Bc/futago-banner.png",
-      imageCenter: "https://i.ibb.co/jww2bq8/futago-center-image.png",
+      logo: "https://i.ibb.co/6tLtZz6/futago.png",
+      banner: "https://i.ibb.co/3mdPCG5/futago-banner.png",
+      imageCenter: "https://i.ibb.co/8M1j7vh/futago-center-image.png",
       lang: {
         en: {
           title: "A perfect blend of distinctive JAPINDO taste and culture.",
@@ -85,6 +117,40 @@ const proxy = {
             "Futago berkomitmen untuk terus mengeksplorasi bahan-bahan lokal Indonesia untuk memperkaya cita rasa JAPINDO. Futago selalu berkreasi melalui produk dan layanan yang relevan dengan perkembangan zaman.",
         },
       },
+      products: [
+        {
+          name: "Onigiri",
+          imageUrl: "https://i.ibb.co/dWpVCf1/futago-product-1.png",
+        },
+        {
+          name: "Chicken Katsu",
+          imageUrl: "https://i.ibb.co/WfSS9jd/futago-product-2.png",
+        },
+        {
+          name: "Ramen",
+          imageUrl: "https://i.ibb.co/rFP0VCh/futago-product-3.png",
+        },
+        {
+          name: "Ramen",
+          imageUrl: "https://i.ibb.co/rFP0VCh/futago-product-3.png",
+        },
+        {
+          name: "Ramen",
+          imageUrl: "https://i.ibb.co/j4Lh09M/futago-product-4.png",
+        },
+        {
+          name: "Ramen",
+          imageUrl: "https://i.ibb.co/VvpSKdn/futago-product-5.png",
+        },
+        {
+          name: "Ramen",
+          imageUrl: "https://i.ibb.co/H4HG963/futago-product-6.png",
+        },
+        {
+          name: "Ramen",
+          imageUrl: "https://i.ibb.co/rMXCmC2/futago-product-7.png",
+        },
+      ],
     },
   },
   "GET /api/brands/4-beragam-coffee-business-solution": {
@@ -93,9 +159,9 @@ const proxy = {
     data: {
       id: "1",
       name: "Futago",
-      logo: "https://i.ibb.co/ZV15TFF/beragam-logo.png",
-      banner: "https://i.ibb.co/2vbnjqC/beragam-banner.png",
-      imageCenter: "https://i.ibb.co/yPbB4SZ/beragam-center-iamge.png",
+      logo: "https://i.ibb.co/zRTFCP7/beragam.png",
+      banner: "https://i.ibb.co/GCS1xRG/beragam-banner.png",
+      imageCenter: "https://i.ibb.co/64G84KB/beragam-center-iamge.png",
       lang: {
         en: {
           title: "The Coffee People You Can Rely On",
@@ -115,6 +181,36 @@ const proxy = {
             "Kami memiliki misi untuk terus berinovasi demi membantu klien kami mengatasi masalah mereka, tanpa melupakan niat dan usaha baik untuk membantu stakeholder industri terkait lainnya di saat yang sama.",
         },
       },
+      products: [
+        {
+          name: "Wanara",
+          imageUrl: "https://i.ibb.co/tDv4Gzq/beragam-product-1.png",
+        },
+        {
+          name: "Kasarung",
+          imageUrl: "https://i.ibb.co/5k73sDd/beragam-product-2.png",
+        },
+        {
+          name: "Timun Mas",
+          imageUrl: "https://i.ibb.co/dfqnqT2/beragam-product-3.png",
+        },
+        {
+          name: "Roro Jonggrang",
+          imageUrl: "https://i.ibb.co/T1zTSJW/beragam-product-4.png",
+        },
+        {
+          name: "Kasarung 250g",
+          imageUrl: "https://i.ibb.co/31PCJWn/beragam-product-5.png",
+        },
+        {
+          name: "Solok Rajo 250g",
+          imageUrl: "https://i.ibb.co/b33TLy8/beragam-product-6.png",
+        },
+        {
+          name: "Roro Jonggrang 250g",
+          imageUrl: "https://i.ibb.co/85bDMp8/beragam-product-7.png",
+        },
+      ],
     },
   },
 };
