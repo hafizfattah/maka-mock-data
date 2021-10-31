@@ -8,8 +8,9 @@ const proxy = {
       id: "1",
       name: "Toodz House",
       logo: "https://i.ibb.co/yBrqtPD/toodz.png",
-      banner: "https://i.ibb.co/0M2vmGQ/toodz-banner.png",
-      imageCenter: "https://i.ibb.co/wyFNgf9/toodz-center.png",
+      banner: "https://i.ibb.co/MSSLgP4/toodz-banner.jpg",
+      imageCenter: "https://i.ibb.co/PDKtttZ/toodz-center-image.png",
+      teamImages: ['https://i.ibb.co/vw6Hdmb/team-toodz.jpg'],
       lang: {
         en: {
           title: "A Cafe We Can Call Home",
@@ -53,8 +54,9 @@ const proxy = {
       id: "1",
       name: "Toko Kopi Tuku",
       logo: "https://i.ibb.co/C6X2Zr1/tuku-logo.png",
-      banner: "https://i.ibb.co/HH3gJVV/tuku-banner.png",
+      banner: "https://i.ibb.co/bNVznj1/tuku-banner.jpg",
       imageCenter: "https://i.ibb.co/PGdp6Qb/tuku-image-center.png",
+      teamImages: ['https://i.ibb.co/Hg8CwYV/team-tuku.jpg'],
       lang: {
         en: {
           title: "A pioneer of new and exciting coffee dibs.",
@@ -98,6 +100,7 @@ const proxy = {
       logo: "https://i.ibb.co/6tLtZz6/futago.png",
       banner: "https://i.ibb.co/3mdPCG5/futago-banner.png",
       imageCenter: "https://i.ibb.co/8M1j7vh/futago-center-image.png",
+      teamImages: ['https://i.ibb.co/FKns21p/futago-team.jpg'],
       lang: {
         en: {
           title: "A perfect blend of distinctive JAPINDO taste and culture.",
@@ -160,8 +163,9 @@ const proxy = {
       id: "1",
       name: "Futago",
       logo: "https://i.ibb.co/zRTFCP7/beragam.png",
-      banner: "https://i.ibb.co/GCS1xRG/beragam-banner.png",
-      imageCenter: "https://i.ibb.co/64G84KB/beragam-center-iamge.png",
+      banner: "https://i.ibb.co/gtqjtv7/beragam-bg.jpg",
+      imageCenter: "https://i.ibb.co/6nRG80g/beragam-center-image.jpg",
+      teamImages: ['https://i.ibb.co/k8T4Wxd/team-beragam.jpg'],
       lang: {
         en: {
           title: "The Coffee People You Can Rely On",

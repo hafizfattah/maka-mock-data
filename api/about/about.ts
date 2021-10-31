@@ -5,8 +5,9 @@ const proxy = {
     code: 200,
     status: "OK",
     data: {
-      banner: "https://i.ibb.co/FYpVPyN/about-bg.png",
+      banner: "https://i.ibb.co/3vcbCDq/about-bg-1.png",
       image: "https://i.ibb.co/YjWTJxG/about-vm.png",
+      teamImage: "https://i.ibb.co/bBPtSys/Tuku-Team.jpg",
       en: {
         title: "Improve & Inspire Sustainable Daily Living Experience",
         caption: "We believe that native Indonesian resources are essential to ensuring the sustainability of our daily living.",

@@ -5,24 +5,34 @@ const proxy = {
     code: 200,
     status: "OK",
     data: {
-      address: " Jl. Cipete Raya B No.7, RT.6/RW.3, Cipete Sel., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12410",
-      phone: "+6283811588994",
-      email: "hello@maka.com",
+      address: "Jl. M.P.R Raya No.14, RT.3/RW.11, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
+      phone: "021-27814130 / 021-27814321",
+      email: "info@maka.id",
       socialMedia: [
         {
-          name: "facebook",
-          url: "https://www.facebook.com/",
-          icon: "https://i.ibb.co/Qn8tKZy/facebook.png",
-        },
-        {
-          name: "twitter",
-          url: "https://www.facebook.com/",
-          icon: "https://i.ibb.co/hWd2Cyd/twitter.png",
+          name: "linkedin",
+          url: "https://www.linkedin.com/company/maka-makna-angan-karya-andanu/",
+          account: "@maka",
         },
         {
           name: "instagram",
-          url: "https://www.facebook.com/",
-          icon: "https://i.ibb.co/hLpnjBW/instagram.png",
+          url: "https://www.instagram.com/tokokopituku/",
+          account: "@tokokopituku",
+        },
+        {
+          name: "instagram",
+          url: "https://www.instagram.com/toodzhouse/",
+          account: "@toodzhouse",
+        },
+        {
+          name: "instagram",
+          url: "https://www.instagram.com/gofutago/",
+          account: "@gofutago",
+        },
+        {
+          name: "instagram",
+          url: "https://www.instagram.com/beragamkopiindonesia/",
+          account: "@beragamkopiindonesia",
         },
       ],
     },
