@@ -5,7 +5,7 @@ const proxy = {
     code: 200,
     status: "OK",
     data: {
-      banner: "https://i.ibb.co/LxdRr6G/lp-banner.jpg",
+      banner: "https://i.ibb.co/8sLJfPF/lp-banner.jpg",
       en: {
         title: "Improve & Inspire sustainable daily living experience",
         description:

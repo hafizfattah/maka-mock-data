@@ -14,7 +14,7 @@ const proxy = {
         description:
           "Our approach in business is simple and straightforward. We aim to make remarkable and relevant products that appeal to our consumers and create experiences that meet the needs of our specific segments. Here in Maka, we believe Indonesia is rich with abundant natural resources and blessed with people from different cultural backgrounds. We optimized our resources to continue to innovate and solve problems for our country's needs. We will continue to invest in natural ecosystem network capabilities, behavioral understanding, science, and technology to prepare for anything that may happen in the future.",
         vision:
-          "Kami berkomitmen untuk membangun ekosistem yang lebih baik dengan memahami perilaku manusia dan inovasi teknologi agar kami siap menghadapi masa depan.",
+          "We are committed to building a better ecosystem by understanding human behavior and innovation in technology for us to be ready to face the future.",
         mission: "To improve the quality of life towards higher standards of sustainability through our product creation and meaningful engagement.",
       },
       id: {

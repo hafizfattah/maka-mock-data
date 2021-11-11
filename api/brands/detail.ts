@@ -10,7 +10,7 @@ const proxy = {
       logo: "https://i.ibb.co/yBrqtPD/toodz.png",
       banner: "https://i.ibb.co/MSSLgP4/toodz-banner.jpg",
       imageCenter: "https://i.ibb.co/PDKtttZ/toodz-center-image.png",
-      teamImages: ['https://i.ibb.co/vw6Hdmb/team-toodz.jpg'],
+      teamImages: ["https://i.ibb.co/vw6Hdmb/team-toodz.jpg"],
       lang: {
         en: {
           title: "A Cafe We Can Call Home",
@@ -56,7 +56,7 @@ const proxy = {
       logo: "https://i.ibb.co/C6X2Zr1/tuku-logo.png",
       banner: "https://i.ibb.co/bNVznj1/tuku-banner.jpg",
       imageCenter: "https://i.ibb.co/PGdp6Qb/tuku-image-center.png",
-      teamImages: ['https://i.ibb.co/Hg8CwYV/team-tuku.jpg'],
+      teamImages: ["https://i.ibb.co/Hg8CwYV/team-tuku.jpg"],
       lang: {
         en: {
           title: "A pioneer of new and exciting coffee dibs.",
@@ -100,7 +100,7 @@ const proxy = {
       logo: "https://i.ibb.co/6tLtZz6/futago.png",
       banner: "https://i.ibb.co/3mdPCG5/futago-banner.png",
       imageCenter: "https://i.ibb.co/8M1j7vh/futago-center-image.png",
-      teamImages: ['https://i.ibb.co/FKns21p/futago-team.jpg'],
+      teamImages: ["https://i.ibb.co/FKns21p/futago-team.jpg"],
       lang: {
         en: {
           title: "A perfect blend of distinctive JAPINDO taste and culture.",
@@ -135,14 +135,6 @@ const proxy = {
         },
         {
           name: "Ramen",
-          imageUrl: "https://i.ibb.co/rFP0VCh/futago-product-3.png",
-        },
-        {
-          name: "Ramen",
-          imageUrl: "https://i.ibb.co/j4Lh09M/futago-product-4.png",
-        },
-        {
-          name: "Ramen",
           imageUrl: "https://i.ibb.co/VvpSKdn/futago-product-5.png",
         },
         {
@@ -165,7 +157,7 @@ const proxy = {
       logo: "https://i.ibb.co/zRTFCP7/beragam.png",
       banner: "https://i.ibb.co/gtqjtv7/beragam-bg.jpg",
       imageCenter: "https://i.ibb.co/6nRG80g/beragam-center-image.jpg",
-      teamImages: ['https://i.ibb.co/k8T4Wxd/team-beragam.jpg'],
+      teamImages: ["https://i.ibb.co/k8T4Wxd/team-beragam.jpg"],
       lang: {
         en: {
           title: "The Coffee People You Can Rely On",
